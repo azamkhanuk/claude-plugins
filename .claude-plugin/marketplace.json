@@ -1,0 +1,13 @@
+{
+  "name": "azamkhanuk",
+  "description": "Claude Code plugins by Azam Khan.",
+  "owner": { "name": "Azam Khan" },
+  "plugins": [
+    {
+      "name": "context-central",
+      "source": { "source": "github", "repo": "azamkhanuk/context-central" },
+      "description": "One central place for all the context behind your work: a map of plain Markdown notes about your repositories and the work in flight.",
+      "homepage": "https://github.com/azamkhanuk/context-central"
+    }
+  ]
+}
