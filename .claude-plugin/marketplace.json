@@ -8,6 +8,12 @@
       "source": { "source": "github", "repo": "azamkhanuk/context-central" },
       "description": "One central place for all the context behind your work: a map of plain Markdown notes about your repositories and the work in flight.",
       "homepage": "https://github.com/azamkhanuk/context-central"
+    },
+    {
+      "name": "custodian",
+      "source": { "source": "github", "repo": "azamkhanuk/custodian" },
+      "description": "A read-only audit of where your Claude Code context sits, with a local dashboard. Flags one client's details leaking into another's sessions.",
+      "homepage": "https://github.com/azamkhanuk/custodian"
     }
   ]
 }

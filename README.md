@@ -14,6 +14,7 @@ Then install a plugin by its name:
 
 ```sh
 claude plugin install context-central@azamkhanuk
+claude plugin install custodian@azamkhanuk
 ```
 
 Or from inside a session:
@@ -28,8 +29,9 @@ Or from inside a session:
 | Plugin | What it does |
 |---|---|
 | [context-central](https://github.com/azamkhanuk/context-central) | Gives all the context behind your work one central place: a map of plain Markdown notes about your repositories and the work in flight |
+| [custodian](https://github.com/azamkhanuk/custodian) | Audits where your Claude Code context sits, and shows what leaks from one client's work into another's, on a page on your own machine |
 
-Each plugin lives in a repository of its own, with its own README, changelog and releases. This repository holds only the list.
+Each plugin lives in a repository of its own, with its own README, changelog and releases. This repository holds only the list. Neither plugin needs the other.
 
 ## Update
 
